@@ -1,1 +1,1 @@
-# oneplusNotesBackupToObsidianMd
+# oneplus_notes_backup_to_obsidian_md
